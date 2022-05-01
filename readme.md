@@ -1,4 +1,4 @@
-<h1 align="center">Treine.me   <img width="20" src="./images/padlock.svg"></h1>
+<h1 align="center">Treine.me  </h1>
 
 
 <p text  align="center"> 
@@ -8,7 +8,7 @@
 
 <br><br>
 <p align="center"> 
-    <a href="https://fernandoaugustodev.github.io/Treine.me/" target="_blank" >Veja o Projeto</a>
+    <a href="https://fernandoaugustodev.github.io/Rocket.sect/" target="_blank" >Veja o Projeto</a>
 </p>
 <hr>
 
